@@ -1,0 +1,40 @@
+{
+    "team": [
+        {
+            "first_name": "Stas",
+            "last_name": "Ivanov",
+            "data": {
+                "position": "teamlead",
+                "age": "30",
+                "gender": "MALE",
+                "level": "senior",
+                "id": 1,
+                "working": true
+                    }
+        },
+        {
+            "first_name": "Nikita",
+            "last_name": "Petrov",
+            "data": {
+                "position": "backend",
+                "age": "29",
+                "gender": "MALE",
+                "level": "middle",
+                "id": 2,
+                "working": true
+            }
+        },
+        {
+            "first_name": "Ilya",
+            "last_name": "Sidorov",
+            "data": {
+                "position": "frontend",
+                "age": "28",
+                "gender": "MALE",
+                "level": "senior",
+                "id": 3,
+                "working": false
+            }
+        }
+    ]
+}
